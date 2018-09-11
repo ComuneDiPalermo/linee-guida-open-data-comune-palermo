@@ -7,6 +7,4 @@ Questo repository contiene la documentazione relativa alle [Linee guida open dat
 Link
 ----
 
-Link alla [documentazione compilata su Docs Italia](https://github.com/italia/docs-italia-starter-kit/tree/master/repo-documento).
-
-Link al [repo di pubblicazione](https://guida-docs-italia.readthedocs.io/it/latest/index/pubblicare-un-documento.html#contenuto-del-repository).
+Link al [repo per la pubblicazione secondo lo stile docs-italia](https://guida-docs-italia.readthedocs.io/it/latest/index/pubblicare-un-documento.html#contenuto-del-repository).
