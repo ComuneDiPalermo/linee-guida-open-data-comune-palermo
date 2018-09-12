@@ -1,8 +1,47 @@
+\ |STYLE0|\ 
+
+* \ |STYLE1|\ : Ordine di Servizio del Segretario Generale
+
+* \ |STYLE2|\ : realizzato
+
+* \ |STYLE3|\ :Il team Open Data è il gruppo  che  promuove l’uso e la diffusione degli Open Data. E’ composto dalle figure dei Dirigenti di Area, o loro delegati, da esperti GIS, da esperti di strategie web ed eventuali consulenti esterni esperti in materia di ICT.
+
+\ |STYLE4|\ 
+
+* \ |STYLE5|\ : Ordine di Servizio del Segretario Generale
+
+* \ |STYLE6|\ : realizzato
+
+* \ |STYLE7|\ : Il \ |STYLE8|\  pianifica la strategia di apertura dei dati raccolti e analizzati e le attività di diffusione dei dati. Inizialmente il \ |STYLE9|\   si occupa dell'upload del file Open Data e del metadato. I file Open Data si trovano nelle banche dati centralizzate o vengono trasmessi al webmaster via email dai Dirigenti di Settore o dai \ |STYLE10|\ 
+
 
 |REPLACE1|
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Creazione Team Open Data**
+
+.. |STYLE1| replace:: **azioni**
+
+.. |STYLE2| replace:: **stato**
+
+.. |STYLE3| replace:: **note**
+
+.. |STYLE4| replace:: **Nomina del Responsabile Open Data (Data manager)**
+
+.. |STYLE5| replace:: **azioni**
+
+.. |STYLE6| replace:: **stato**
+
+.. |STYLE7| replace:: **note**
+
+.. |STYLE8| replace:: *Responsabile Open Data*
+
+.. |STYLE9| replace:: *Responsabile Open Data*
+
+.. |STYLE10| replace:: *Referenti tematico e tecnico.*
 
 
 .. |REPLACE1| raw:: html
