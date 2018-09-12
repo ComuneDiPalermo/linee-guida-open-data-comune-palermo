@@ -1,7 +1,8 @@
 --- 
 document:
-  name: "Linee guida open data comune Palermo"
+  name: "Linee guida open data Comune di Palermo"
   description: "Questo documento regola le attività di pubblicazione degli open data al comune Palermo"    
   tags:
     - "open data"
-    - "amazing project"
+    - "trasparenza"
+    - "dati in formato aperto"
