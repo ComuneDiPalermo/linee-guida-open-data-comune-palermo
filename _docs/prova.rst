@@ -14,6 +14,22 @@
 
 * \ |STYLE7|\ : Il \ |STYLE8|\  pianifica la strategia di apertura dei dati raccolti e analizzati e le attività di diffusione dei dati. Inizialmente il \ |STYLE9|\   si occupa dell'upload del file Open Data e del metadato. I file Open Data si trovano nelle banche dati centralizzate o vengono trasmessi al webmaster via email dai Dirigenti di Settore o dai \ |STYLE10|\ 
 
+\ |STYLE11|\ 
+
+* \ |STYLE12|\ : Ordine di Servizio del Segretario Generale ai  Dirigenti di Servizio
+
+* \ |STYLE13|\ : realizzato
+
+* \ |STYLE14|\ : Il \ |STYLE15|\  coordina le attività sugli Open Data per il suo Servizio di competenza; accoglie le istanze della collettività sul dato pubblicato e dispone le procedure interne per soddisfare le esigenze sopraggiunte.
+
+\ |STYLE16|\ 
+
+* \ |STYLE17|\ : Ordine di Servizio del Dirigente di Servizio
+
+* \ |STYLE18|\ : realizzato
+
+* \ |STYLE19|\ : \ |STYLE20|\  assistono il Dirigente di Servizio  nelle attività di diffusione della cultura degli Open Data, la raccolta e la pubblicazione. Le 2 figure possono essere  delegate dal Dirigente d'Area  a partecipare alle riunioni del Team Open Data. Il \ |STYLE21|\   costituiranno un punto di riferimento tecnico per ogni impiegato comunale.
+
 
 |REPLACE1|
 
@@ -42,6 +58,28 @@
 .. |STYLE9| replace:: *Responsabile Open Data*
 
 .. |STYLE10| replace:: *Referenti tematico e tecnico.*
+
+.. |STYLE11| replace:: **Nomina del Dirigente di Servizio quale figura Titolare della banca dati**
+
+.. |STYLE12| replace:: **azioni**
+
+.. |STYLE13| replace:: **stato**
+
+.. |STYLE14| replace:: **note**
+
+.. |STYLE15| replace:: *Titolare della banca dati*
+
+.. |STYLE16| replace:: **Nomina di un Referente tecnico della banca dati e di un Referente tematico della banca dati indicato dal Dirigente di Servizio**
+
+.. |STYLE17| replace:: **azioni**
+
+.. |STYLE18| replace:: **stato**
+
+.. |STYLE19| replace:: **note**
+
+.. |STYLE20| replace:: *Il Referente tecnico della banca dati e il Referente tematico della banca dati*
+
+.. |STYLE21| replace:: *Referente tecnico della banca dati e il  Referente tematico della banca dati*
 
 
 .. |REPLACE1| raw:: html
